@@ -22,4 +22,4 @@ Open the link that looks like `http://localhost:8888/?token=<TOKEN>` in your bro
 
 From the main page in your browswer, open the **1_hello_tensorflow.ipynb** notebook. Ensure you can run all the cells in notebook. If you have more time and you'd like to learn more about TensorFlow, you can also complete the **2_getting_started.ipynb** notebook.
 
-Once you can load the pre-wor notebooks, you're good to go for the workshop!
+Once you can load the pre-work notebooks, you're good to go for the workshop!
